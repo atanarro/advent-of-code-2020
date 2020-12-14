@@ -1,0 +1,20 @@
+{
+  "name": "aoc-2020",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020",
+  "scripts": {
+    "start": "echo go to each day folder",
+    "newDay": "ft day ./",
+    "prettier": "npx prettier --write ."
+  },
+  "author": "Alvaro Tanarro",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "folder-template": "^0.1.4",
+    "jest": "^26.6.3",
+    "prettier": "2.2.1"
+  }
+}

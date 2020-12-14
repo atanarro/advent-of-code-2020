@@ -1,0 +1,5 @@
+.DS_Store
+.directory
+node_modules/
+yarn*
+.idea/
